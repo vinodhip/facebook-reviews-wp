@@ -1,11 +1,11 @@
 <?php
-    /*
+       /*
     Plugin Name: innovator-facebook-reviews
-    Plugin URI: http://www.innovator.se/
+    Plugin URI: https://github.com/vinodhip/
     Description: Plugin for displaying facebook-reviews
-    Author: Jonas Stensved
+    Author: VinothKumar Subramani
     Version: 1.0
-    Author URI: http://www.innovator.se/
+    Author URI: https://github.com/vinodhip/
     */
 ?>
 <?php 
